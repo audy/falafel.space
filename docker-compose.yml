@@ -1,0 +1,17 @@
+version: "2"
+
+falafel_server:
+  ...
+
+falafel_mapcrafter:
+  ...
+
+mapcrafter_www:
+  ...
+
+networks:
+  - falafelnet
+
+volumes:
+  - falafel_world: "/data"
+  - mapcrafter_render: "/render"
