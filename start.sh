@@ -5,4 +5,5 @@ docker run \
   --volume $PWD/falafel:/data \
   --detach \
   --name falafel \
+  --restart always \
   audy/falafelspace
