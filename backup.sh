@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# add this to your crontab:
+# 0 5 * * * /root/backup-falafel.sh
+
 set -euo pipefail
 
 docker stop falafel
