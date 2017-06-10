@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2017-06-08 07:26:18 +0000"
@@ -35,6 +29,70 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2017-06-09 05:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "skeleton": "2017-06-09 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "polar_bear": "2017-06-09 06:33:30 +0000",
+      "vindicator": "2017-06-09 06:25:36 +0000",
+      "skeleton": "2017-06-09 06:01:26 +0000",
+      "husk": "2017-06-09 06:25:28 +0000",
+      "evoker": "2017-06-09 06:21:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2017-06-08 07:26:19 +0000",
+      "deep_ocean": "2017-06-09 05:32:12 +0000",
+      "beaches": "2017-06-09 05:41:07 +0000",
+      "savanna": "2017-06-09 05:31:03 +0000",
+      "savanna_rock": "2017-06-09 05:52:33 +0000",
+      "ocean": "2017-06-09 05:31:06 +0000",
+      "river": "2017-06-09 05:43:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2017-06-08 07:26:18 +0000"
@@ -47,21 +105,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2017-06-08 07:26:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2017-06-09 05:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2017-06-08 07:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2017-06-09 05:32:20 +0000"
     },
     "done": true
   },
@@ -95,27 +159,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
+      "entered_water": "2017-06-09 05:32:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fence": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
+      "used_totem": "2017-06-09 05:48:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2017-06-08 07:26:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
@@ -131,16 +189,46 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2017-06-09 06:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2017-06-09 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2017-06-09 05:32:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "forest": "2017-06-08 07:26:19 +0000"
+      "entered_water": "2017-06-09 05:32:20 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2017-06-09 05:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2017-06-09 05:46:53 +0000"
+    },
+    "done": true
   }
 }
