@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2017-07-16 19:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-06-11 07:33:49 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-07-08 18:55:17 +0000"
@@ -71,9 +83,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2017-07-16 19:31:02 +0000"
     },
     "done": true
   },
@@ -101,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-07-04 19:41:43 +0000"
@@ -110,6 +140,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-07-08 18:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   },
@@ -128,6 +164,18 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2017-06-09 05:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   },
@@ -227,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2017-07-08 19:26:01 +0000"
@@ -293,9 +347,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   },
@@ -308,6 +386,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2017-07-08 18:29:20 +0000",
+      "baked_potato": "2017-07-16 18:52:23 +0000",
       "rotten_flesh": "2017-07-08 17:58:48 +0000",
       "cooked_chicken": "2017-06-09 05:33:41 +0000"
     },
@@ -337,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2017-07-16 19:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
@@ -346,6 +431,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2017-06-09 05:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   },
@@ -367,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
@@ -385,6 +482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2017-07-16 19:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-09 05:32:33 +0000"
@@ -400,6 +503,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2017-06-09 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2017-07-16 19:42:31 +0000"
     },
     "done": true
   },
@@ -454,6 +563,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   },
@@ -523,9 +638,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2017-06-11 07:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2017-07-16 19:47:18 +0000",
+      "iron_chestplate": "2017-07-16 19:47:18 +0000",
+      "iron_leggings": "2017-07-16 19:47:18 +0000",
+      "iron_helmet": "2017-07-16 19:47:18 +0000"
     },
     "done": true
   },
@@ -615,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2017-07-08 19:09:48 +0000"
@@ -672,6 +808,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-06-09 05:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   },
@@ -753,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2017-07-16 19:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2017-06-09 05:26:02 +0000"
@@ -774,6 +922,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   },
@@ -813,10 +967,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2017-07-16 19:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-06-11 07:27:55 +0000",
+      "zombie_villager": "2017-07-16 19:57:54 +0000",
       "polar_bear": "2017-06-09 06:33:07 +0000",
+      "skeleton": "2017-07-16 19:51:59 +0000",
       "husk": "2017-06-09 06:35:10 +0000",
       "zombie": "2017-07-08 18:26:45 +0000",
       "spider": "2017-06-09 06:36:27 +0000",
@@ -839,6 +1007,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2017-06-11 07:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2017-07-16 19:31:02 +0000"
     },
     "done": true
   },
@@ -866,9 +1040,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2017-07-08 18:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   },
@@ -884,9 +1076,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2017-07-04 19:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2017-07-16 19:31:02 +0000"
     },
     "done": true
   },
@@ -959,6 +1169,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2017-07-08 18:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 19:29:48 +0000"
     },
     "done": true
   }
