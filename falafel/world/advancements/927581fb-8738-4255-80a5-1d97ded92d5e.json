@@ -387,6 +387,7 @@
     "criteria": {
       "cooked_beef": "2017-07-08 18:29:20 +0000",
       "baked_potato": "2017-07-16 18:52:23 +0000",
+      "poisonous_potato": "2017-07-18 07:02:42 +0000",
       "rotten_flesh": "2017-07-08 17:58:48 +0000",
       "cooked_chicken": "2017-06-09 05:33:41 +0000"
     },
@@ -904,6 +905,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2017-06-09 05:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2017-07-18 07:06:08 +0000"
     },
     "done": true
   },
