@@ -608,6 +608,8 @@
       "skeleton": "2017-07-16 19:51:59 +0000",
       "husk": "2017-06-09 06:35:10 +0000",
       "zombie": "2017-07-08 18:26:45 +0000",
+      "cave_spider": "2017-08-06 03:50:48 +0000",
+      "witch": "2017-08-06 04:04:33 +0000",
       "spider": "2017-06-09 06:36:27 +0000",
       "creeper": "2017-07-08 18:10:33 +0000"
     },
@@ -793,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2017-08-05 21:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2017-07-08 19:03:49 +0000"
@@ -940,6 +948,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2017-07-08 18:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2017-08-05 21:38:00 +0000"
     },
     "done": true
   },
