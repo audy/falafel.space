@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2017-08-07 07:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2017-08-07 08:16:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2017-06-11 07:06:23 +0000"
@@ -346,9 +358,12 @@
       "cooked_beef": "2017-07-08 18:29:20 +0000",
       "baked_potato": "2017-07-16 18:52:23 +0000",
       "apple": "2017-08-06 07:07:10 +0000",
+      "cooked_cod": "2017-08-07 17:28:40 +0000",
       "poisonous_potato": "2017-07-18 07:02:42 +0000",
+      "melon": "2017-08-07 09:12:27 +0000",
       "rotten_flesh": "2017-07-08 17:58:48 +0000",
-      "cooked_chicken": "2017-06-09 05:33:41 +0000"
+      "cooked_chicken": "2017-06-09 05:33:41 +0000",
+      "cooked_salmon": "2017-08-07 17:28:43 +0000"
     },
     "done": false
   },
@@ -397,6 +412,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2017-07-08 19:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2017-08-07 17:24:56 +0000"
     },
     "done": true
   },
@@ -475,6 +496,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2017-06-11 07:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2017-08-07 08:16:31 +0000"
     },
     "done": true
   },
@@ -747,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2017-08-07 09:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2017-06-09 05:23:26 +0000"
@@ -833,6 +866,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2017-07-08 19:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2017-08-07 07:53:03 +0000"
     },
     "done": true
   },
@@ -965,6 +1004,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2017-07-16 19:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2017-08-07 09:13:30 +0000"
     },
     "done": true
   },
@@ -1124,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2017-08-07 06:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2017-07-16 19:29:48 +0000"
@@ -1226,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2017-08-07 09:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2017-06-09 05:21:50 +0000"
@@ -1241,6 +1298,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-08-07 09:09:50 +0000"
     },
     "done": true
   },
@@ -1385,12 +1448,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-06-11 07:50:18 +0000",
+      "mesa_rock": "2017-08-07 09:04:26 +0000",
       "swampland": "2017-06-11 07:52:23 +0000",
       "birch_forest": "2017-06-11 07:51:00 +0000",
       "deep_ocean": "2017-06-09 05:26:57 +0000",
       "beaches": "2017-06-11 07:17:00 +0000",
       "extreme_hills_with_trees": "2017-08-06 19:42:31 +0000",
       "desert_hills": "2017-08-06 19:40:51 +0000",
+      "mesa": "2017-08-07 09:03:30 +0000",
       "forest_hills": "2017-07-08 18:34:26 +0000",
       "savanna": "2017-06-11 06:42:17 +0000",
       "plains": "2017-06-11 07:50:30 +0000",
@@ -1400,13 +1465,15 @@
       "redwood_taiga": "2017-06-11 07:52:37 +0000",
       "taiga": "2017-06-11 07:50:50 +0000",
       "redwood_taiga_hills": "2017-06-11 07:52:36 +0000",
+      "taiga_hills": "2017-08-07 09:34:59 +0000",
       "birch_forest_hills": "2017-06-11 07:50:58 +0000",
       "ocean": "2017-06-09 05:21:51 +0000",
       "extreme_hills": "2017-06-11 07:51:13 +0000",
       "roofed_forest": "2017-06-11 07:50:46 +0000",
       "river": "2017-06-11 07:50:49 +0000",
       "jungle": "2017-06-11 07:51:20 +0000",
-      "desert": "2017-07-09 19:24:17 +0000"
+      "desert": "2017-07-09 19:24:17 +0000",
+      "stone_beach": "2017-08-07 09:02:43 +0000"
     },
     "done": false
   },
@@ -1494,6 +1561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2017-08-07 09:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2017-08-06 05:55:11 +0000"
@@ -1542,6 +1615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2017-08-07 09:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2017-07-16 19:31:02 +0000"
@@ -1563,6 +1642,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_sheep": "2017-08-06 08:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-08-07 09:09:50 +0000"
     },
     "done": true
   },
@@ -1611,6 +1696,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-08-06 05:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2017-08-07 09:17:19 +0000"
     },
     "done": true
   },
