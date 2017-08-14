@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2017-08-13 07:12:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2017-08-06 07:19:11 +0000"
@@ -1009,6 +1015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2017-08-13 06:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2017-08-06 07:19:24 +0000"
@@ -1078,6 +1090,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-08-12 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2017-08-13 06:28:38 +0000"
     },
     "done": true
   },
@@ -1459,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-08-13 06:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2017-07-16 19:42:31 +0000"
@@ -1661,6 +1685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-08-13 06:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2017-08-06 05:58:37 +0000"
@@ -1742,6 +1772,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2017-07-08 18:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2017-08-13 06:28:38 +0000"
     },
     "done": true
   },
