@@ -10,7 +10,7 @@ MAINTAINER Austin G. Davis-Richardson <harekrishna@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
-ADD https://s3.amazonaws.com/Minecraft.Download/versions/1.12/minecraft_server.1.12.jar /minecraft_server.jar
+ADD https://s3.amazonaws.com/Minecraft.Download/versions/1.12.1/minecraft_server.1.12.1.jar /minecraft_server.jar
 
 RUN apt-get update \
   && apt-get install -y \
