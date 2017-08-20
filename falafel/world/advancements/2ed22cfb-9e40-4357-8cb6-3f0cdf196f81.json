@@ -601,7 +601,9 @@
     "criteria": {
       "bred_chicken": "2017-08-13 13:32:01 +0000",
       "bred_sheep": "2017-08-12 00:17:43 +0000",
-      "bred_cow": "2017-08-13 12:08:05 +0000"
+      "bred_llama": "2017-08-19 13:54:02 +0000",
+      "bred_cow": "2017-08-13 12:08:05 +0000",
+      "bred_pig": "2017-08-19 13:34:14 +0000"
     },
     "done": false
   },
@@ -754,6 +756,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2017-07-06 23:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2017-08-19 21:12:15 +0000"
     },
     "done": true
   },
@@ -934,6 +942,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "wither_skeleton": "2017-08-12 18:27:26 +0000",
+      "zombie_villager": "2017-08-19 19:03:13 +0000",
       "magma_cube": "2017-08-12 18:35:15 +0000",
       "slime": "2017-08-12 01:53:25 +0000",
       "skeleton": "2017-08-12 00:30:03 +0000",
@@ -1297,6 +1306,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2017-08-12 23:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2017-08-19 14:31:43 +0000"
     },
     "done": true
   },
