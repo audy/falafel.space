@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2017-08-21 03:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2017-06-09 05:21:50 +0000"
@@ -988,6 +994,7 @@
       "cave_spider": "2017-08-06 03:50:48 +0000",
       "witch": "2017-08-06 04:04:33 +0000",
       "spider": "2017-06-09 06:36:27 +0000",
+      "ghast": "2017-08-21 03:29:26 +0000",
       "creeper": "2017-07-08 18:10:33 +0000",
       "enderman": "2017-08-07 03:05:18 +0000"
     },
