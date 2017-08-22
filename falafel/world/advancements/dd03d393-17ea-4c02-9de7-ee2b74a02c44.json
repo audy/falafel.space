@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2017-08-22 02:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2017-06-27 01:16:50 +0000"
@@ -802,11 +808,13 @@
       "zombie_villager": "2017-08-11 23:53:05 +0000",
       "husk": "2017-07-16 01:52:32 +0000",
       "zombie": "2017-08-12 00:36:59 +0000",
+      "silverfish": "2017-08-22 02:20:56 +0000",
       "witch": "2017-08-12 01:43:55 +0000",
       "guardian": "2017-06-26 23:24:59 +0000",
       "ghast": "2017-06-27 01:26:59 +0000",
       "spider": "2017-07-16 01:41:01 +0000",
-      "creeper": "2017-06-26 23:01:46 +0000"
+      "creeper": "2017-06-26 23:01:46 +0000",
+      "enderman": "2017-08-22 02:39:35 +0000"
     },
     "done": false
   },
@@ -819,6 +827,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-08-11 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2017-08-22 02:42:34 +0000"
     },
     "done": true
   },
@@ -900,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2017-08-22 02:38:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-26 23:07:32 +0000"
@@ -966,9 +986,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2017-08-22 02:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-08-12 01:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2017-08-22 02:38:55 +0000"
     },
     "done": true
   },
@@ -999,6 +1031,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2017-08-11 23:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2017-08-22 02:37:13 +0000"
     },
     "done": true
   },
@@ -1170,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2017-08-22 02:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2017-06-27 01:16:50 +0000"
@@ -1305,6 +1349,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2017-07-16 02:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2017-08-22 02:39:00 +0000"
     },
     "done": true
   },
@@ -1459,6 +1509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2017-08-22 02:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2017-06-22 01:27:21 +0000"
@@ -1519,9 +1575,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2017-08-22 02:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-08-11 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2017-08-22 02:38:55 +0000"
     },
     "done": true
   },

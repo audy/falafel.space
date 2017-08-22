@@ -603,6 +603,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2017-08-21 07:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2017-08-07 08:16:31 +0000"
@@ -987,6 +993,7 @@
       "zombie_villager": "2017-07-16 19:57:54 +0000",
       "magma_cube": "2017-08-07 03:59:55 +0000",
       "polar_bear": "2017-06-09 06:33:07 +0000",
+      "slime": "2017-08-21 06:49:18 +0000",
       "skeleton": "2017-07-16 19:51:59 +0000",
       "husk": "2017-06-09 06:35:10 +0000",
       "blaze": "2017-08-19 04:32:12 +0000",
@@ -1063,6 +1070,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-08-12 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2017-08-21 07:10:20 +0000"
     },
     "done": true
   },
