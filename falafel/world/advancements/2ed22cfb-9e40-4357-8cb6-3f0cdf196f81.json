@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2017-09-02 20:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-07-06 23:00:53 +0000"
@@ -260,6 +266,15 @@
   "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-08-19 00:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2017-09-02 17:36:51 +0000",
+      "diamond_helmet": "2017-09-02 17:36:51 +0000",
+      "diamond_chestplate": "2017-09-02 17:36:51 +0000",
+      "diamond_boots": "2017-09-02 17:36:51 +0000"
     },
     "done": true
   },
@@ -380,6 +395,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-08-12 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2017-09-02 19:41:26 +0000"
     },
     "done": true
   },
@@ -1007,6 +1028,7 @@
       "silverfish": "2017-08-12 16:22:02 +0000",
       "witch": "2017-08-13 00:31:13 +0000",
       "spider": "2017-08-12 01:37:45 +0000",
+      "ghast": "2017-09-02 11:59:49 +0000",
       "creeper": "2017-08-13 00:23:52 +0000",
       "enderman": "2017-08-20 15:46:01 +0000"
     },
@@ -1552,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2017-09-02 20:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2017-08-12 02:02:45 +0000"
@@ -1669,6 +1697,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2017-08-12 14:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2017-09-02 20:57:08 +0000"
     },
     "done": true
   },
@@ -2108,6 +2142,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-08-19 00:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2017-09-02 20:57:08 +0000"
     },
     "done": true
   },
