@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2017-12-23 03:59:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2017-08-11 23:43:27 +0000"
@@ -448,6 +454,7 @@
       "apple": "2017-08-12 00:34:33 +0000",
       "cooked_cod": "2017-08-11 23:30:21 +0000",
       "bread": "2017-08-12 01:20:09 +0000",
+      "golden_carrot": "2017-12-23 04:14:33 +0000",
       "cooked_chicken": "2017-06-26 23:02:34 +0000",
       "mushroom_stew": "2017-08-11 23:46:20 +0000"
     },
@@ -1404,6 +1411,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2017-08-27 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2017-12-23 03:59:06 +0000"
     },
     "done": true
   },

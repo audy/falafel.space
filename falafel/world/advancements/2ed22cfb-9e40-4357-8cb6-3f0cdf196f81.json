@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2017-12-23 03:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2017-08-12 01:59:50 +0000"
@@ -1822,11 +1828,14 @@
       "forest": "2017-08-11 23:02:01 +0000",
       "swampland": "2017-08-11 23:40:49 +0000",
       "birch_forest": "2017-08-12 16:56:21 +0000",
+      "deep_ocean": "2017-12-23 00:33:03 +0000",
       "beaches": "2017-08-12 01:55:08 +0000",
       "extreme_hills_with_trees": "2017-08-11 23:03:20 +0000",
       "desert_hills": "2017-08-12 22:47:01 +0000",
       "forest_hills": "2017-08-11 23:42:45 +0000",
       "plains": "2017-08-11 23:55:28 +0000",
+      "savanna": "2017-12-23 00:12:49 +0000",
+      "savanna_rock": "2017-12-23 00:14:53 +0000",
       "ice_mountains": "2017-08-11 22:56:25 +0000",
       "taiga": "2017-08-11 23:02:17 +0000",
       "birch_forest_hills": "2017-08-12 16:56:46 +0000",
