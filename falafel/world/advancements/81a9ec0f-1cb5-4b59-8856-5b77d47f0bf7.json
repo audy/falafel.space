@@ -74,11 +74,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-06-08 07:26:19 +0000",
+      "mesa_rock": "2017-12-31 01:23:45 +0000",
       "deep_ocean": "2017-06-09 05:32:12 +0000",
       "beaches": "2017-06-09 05:41:07 +0000",
       "savanna": "2017-06-09 05:31:03 +0000",
       "plains": "2017-09-16 15:43:10 +0000",
       "savanna_rock": "2017-06-09 05:52:33 +0000",
+      "taiga": "2017-12-30 23:40:53 +0000",
       "ocean": "2017-06-09 05:31:06 +0000",
       "river": "2017-06-09 05:43:43 +0000",
       "desert": "2017-10-06 21:17:21 +0000"
@@ -112,6 +114,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2017-09-01 20:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2017-12-31 01:21:35 +0000"
     },
     "done": true
   },
@@ -362,7 +370,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2017-09-01 20:12:39 +0000"
+      "apple": "2017-09-01 20:12:39 +0000",
+      "cooked_chicken": "2017-12-31 01:22:47 +0000"
     },
     "done": false
   },
@@ -411,6 +420,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2017-12-31 01:23:44 +0000"
     },
     "done": true
   },
