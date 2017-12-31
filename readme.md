@@ -1,6 +1,7 @@
 # 🚀 falafel.space
 
-A minecraft server
+A minecraft server. Code for rendering map lives
+[here](https://github.com/audy/falafel-renderer).
 
 ## Docker
 
