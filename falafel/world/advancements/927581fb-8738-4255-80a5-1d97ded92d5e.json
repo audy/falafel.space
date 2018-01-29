@@ -560,6 +560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2018-01-29 00:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-08-12 18:13:58 +0000"
@@ -909,6 +915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2018-01-29 00:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2017-06-09 05:21:50 +0000"
@@ -1061,6 +1073,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2018-01-29 02:38:56 +0000",
+      "frozen_river": "2018-01-29 02:38:55 +0000",
+      "taiga_cold_hills": "2018-01-29 02:53:29 +0000",
       "forest": "2017-06-11 07:50:18 +0000",
       "mesa_rock": "2017-08-07 09:04:26 +0000",
       "mushroom_island_shore": "2017-08-12 17:19:04 +0000",
@@ -1086,6 +1101,7 @@
       "ocean": "2017-06-09 05:21:51 +0000",
       "extreme_hills": "2017-06-11 07:51:13 +0000",
       "roofed_forest": "2017-06-11 07:50:46 +0000",
+      "cold_beach": "2018-01-29 02:35:47 +0000",
       "river": "2017-06-11 07:50:49 +0000",
       "jungle": "2017-06-11 07:51:20 +0000",
       "desert": "2017-07-09 19:24:17 +0000",
@@ -1566,6 +1582,7 @@
       "cooked_porkchop": "2017-09-02 19:49:39 +0000",
       "cooked_mutton": "2017-08-12 19:44:39 +0000",
       "cooked_beef": "2017-07-08 18:29:20 +0000",
+      "chorus_fruit": "2018-01-29 03:15:56 +0000",
       "baked_potato": "2017-07-16 18:52:23 +0000",
       "apple": "2017-08-06 07:07:10 +0000",
       "cooked_cod": "2017-08-07 17:28:40 +0000",
@@ -2115,6 +2132,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2017-07-09 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2018-01-29 00:32:44 +0000"
     },
     "done": true
   },
