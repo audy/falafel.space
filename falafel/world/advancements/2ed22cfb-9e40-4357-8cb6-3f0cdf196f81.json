@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_the_recipe": "2018-03-17 01:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-07-06 23:00:53 +0000"
@@ -895,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2018-03-17 01:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-08-11 23:35:35 +0000"
@@ -1400,6 +1412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2018-03-17 01:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2017-08-12 23:41:16 +0000"
@@ -1640,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-03-17 01:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2017-08-11 23:26:46 +0000"
@@ -1857,7 +1881,8 @@
       "extreme_hills": "2017-08-11 23:03:47 +0000",
       "roofed_forest": "2017-08-12 00:34:55 +0000",
       "river": "2017-08-11 22:58:49 +0000",
-      "desert": "2017-08-12 22:06:43 +0000"
+      "desert": "2017-08-12 22:06:43 +0000",
+      "stone_beach": "2018-03-17 00:44:55 +0000"
     },
     "done": false
   },
@@ -2230,6 +2255,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2017-08-11 23:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2018-03-17 01:00:33 +0000"
     },
     "done": true
   },
