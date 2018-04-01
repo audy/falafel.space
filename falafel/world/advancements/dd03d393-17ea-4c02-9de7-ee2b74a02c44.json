@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2018-04-01 00:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2017-07-14 02:17:48 +0000"
@@ -451,6 +457,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2018-04-01 01:20:08 +0000",
       "apple": "2017-08-12 00:34:33 +0000",
       "cooked_cod": "2017-08-11 23:30:21 +0000",
       "bread": "2017-08-12 01:20:09 +0000",
@@ -463,6 +470,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2017-06-26 23:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2018-04-01 00:28:15 +0000"
     },
     "done": true
   },
@@ -648,7 +661,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bred_chicken": "2017-08-11 23:24:00 +0000"
+      "bred_chicken": "2017-08-11 23:24:00 +0000",
+      "bred_sheep": "2018-04-01 01:02:31 +0000",
+      "bred_cow": "2018-04-01 00:57:25 +0000"
     },
     "done": false
   },
@@ -741,6 +756,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2017-09-02 20:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2018-04-01 00:50:57 +0000"
     },
     "done": true
   },
@@ -990,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2018-04-01 00:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-26 23:07:32 +0000"
@@ -1039,6 +1066,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2017-08-22 02:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-04-01 00:36:30 +0000"
     },
     "done": true
   },
@@ -1770,6 +1803,7 @@
       "ocean": "2017-07-16 01:48:10 +0000",
       "extreme_hills": "2017-06-22 01:18:03 +0000",
       "roofed_forest": "2017-07-20 22:55:32 +0000",
+      "cold_beach": "2018-04-01 02:05:57 +0000",
       "river": "2017-06-27 01:30:22 +0000",
       "jungle": "2017-07-16 01:57:51 +0000",
       "desert": "2017-07-16 01:48:25 +0000"
