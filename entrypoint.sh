@@ -8,8 +8,8 @@ cd /data \
     -XX:+UseConcMarkSweepGC \
     -XX:+UseParNewGC \
     -XX:+CMSIncrementalPacing \
-    -XX:ParallelGCThreads=2 \
+    -XX:ParallelGCThreads=4 \
     -XX:+AggressiveOpts \
-    -Xms1536M \
-    -Xmx1536M \
+    -Xms2048M \
+    -Xmx2048M \
     -jar /minecraft_server.jar nogui
