@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2018-04-23 05:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2017-06-08 07:26:18 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2018-04-23 05:22:07 +0000"
     },
     "done": true
   },
@@ -74,6 +86,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2017-12-31 01:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-04-23 05:22:03 +0000"
     },
     "done": true
   },
@@ -284,7 +302,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2017-09-01 20:12:39 +0000",
-      "cooked_chicken": "2017-12-31 01:22:47 +0000"
+      "cooked_chicken": "2017-12-31 01:22:47 +0000",
+      "carrot": "2018-04-23 05:20:18 +0000"
     },
     "done": false
   },
@@ -315,6 +334,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2018-04-23 05:21:23 +0000"
     },
     "done": true
   },
@@ -420,6 +445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-04-23 05:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
@@ -450,9 +481,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2018-04-23 05:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2018-04-23 05:21:23 +0000"
     },
     "done": true
   },
@@ -783,7 +826,8 @@
       "skeleton": "2017-06-09 06:01:26 +0000",
       "husk": "2017-06-09 06:25:28 +0000",
       "evoker": "2017-06-09 06:21:02 +0000",
-      "zombie": "2017-09-16 15:44:16 +0000"
+      "zombie": "2017-09-16 15:44:16 +0000",
+      "spider": "2018-04-23 05:21:22 +0000"
     },
     "done": false
   },
