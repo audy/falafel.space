@@ -1104,6 +1104,7 @@
       "jungle_hills": "2017-06-11 07:51:25 +0000",
       "jungle_edge": "2017-06-11 07:51:59 +0000",
       "savanna_rock": "2017-06-11 07:31:09 +0000",
+      "ice_mountains": "2018-04-30 06:28:47 +0000",
       "redwood_taiga": "2017-06-11 07:52:37 +0000",
       "taiga": "2017-06-11 07:50:50 +0000",
       "redwood_taiga_hills": "2017-06-11 07:52:36 +0000",
@@ -1631,6 +1632,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2018-04-30 06:21:45 +0000"
     },
     "done": true
   },
