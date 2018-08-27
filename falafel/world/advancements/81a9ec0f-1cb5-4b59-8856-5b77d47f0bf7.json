@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
-    "criteria": {
-      "has_planks": "2018-04-14 06:20:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2018-04-15 05:23:47 +0000"
@@ -32,12 +26,6 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wooden_slab": {
-    "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
@@ -92,12 +80,6 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2018-04-23 05:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapdoor": {
-    "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
@@ -179,12 +161,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_pressure_plate": {
-    "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
@@ -224,18 +200,6 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2018-04-14 06:28:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 05:32:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_button": {
-    "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
@@ -293,12 +257,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fence": {
-    "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2017-09-01 20:12:39 +0000",
@@ -343,9 +301,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_block": {
+  "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
-      "has_iron_block": "2017-09-01 20:13:55 +0000"
+      "has_planks": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
@@ -367,9 +325,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2018-04-14 05:54:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2017-09-01 20:11:56 +0000"
     },
     "done": true
   },
@@ -391,9 +361,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/fence_gate": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
+      "has_redstone": "2017-09-16 15:45:59 +0000"
     },
     "done": true
   },
@@ -427,13 +397,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-04-15 05:23:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-04-15 05:23:47 +0000"
     },
@@ -445,21 +415,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-04-23 05:22:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_iron_ingot": "2017-09-01 20:13:56 +0000"
+      "has_sand": "2018-08-26 08:13:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/noteblock": {
+  "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
-      "has_redstone": "2017-09-16 15:45:59 +0000"
+      "has_iron_ingot": "2017-09-01 20:13:56 +0000"
     },
     "done": true
   },
@@ -493,15 +469,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/string_to_wool": {
+  "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
-      "has_string": "2018-04-23 05:21:23 +0000"
+      "has_planks": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
-      "has_log2": "2018-04-14 06:20:15 +0000"
+      "has_planks": "2018-04-14 06:20:38 +0000"
     },
     "done": true
   },
@@ -519,7 +495,7 @@
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "skeleton": "2017-06-09 06:01:26 +0000"
+      "minecraft:skeleton": "2017-06-09 06:01:26 +0000"
     },
     "done": true
   },
@@ -531,13 +507,19 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bred_chicken": "2018-04-14 06:26:41 +0000"
+      "minecraft:chicken": "2018-04-14 06:26:41 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-14 06:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
@@ -559,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2018-08-26 08:13:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
@@ -573,27 +561,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2017-06-08 07:26:19 +0000",
-      "mesa_rock": "2017-12-31 01:23:45 +0000",
-      "swampland": "2018-04-14 05:47:08 +0000",
-      "birch_forest": "2018-04-14 06:18:13 +0000",
-      "deep_ocean": "2017-06-09 05:32:12 +0000",
-      "beaches": "2017-06-09 05:41:07 +0000",
-      "extreme_hills_with_trees": "2018-04-14 05:42:24 +0000",
-      "forest_hills": "2018-04-14 06:15:23 +0000",
-      "savanna": "2017-06-09 05:31:03 +0000",
-      "plains": "2017-09-16 15:43:10 +0000",
-      "jungle_edge": "2018-04-14 06:16:43 +0000",
-      "savanna_rock": "2017-06-09 05:52:33 +0000",
-      "taiga": "2017-12-30 23:40:53 +0000",
-      "taiga_hills": "2018-04-14 05:46:16 +0000",
-      "birch_forest_hills": "2018-04-14 06:18:28 +0000",
-      "ocean": "2017-06-09 05:31:06 +0000",
-      "extreme_hills": "2018-04-14 05:42:43 +0000",
-      "roofed_forest": "2018-04-14 06:00:09 +0000",
-      "river": "2017-06-09 05:43:43 +0000",
-      "jungle": "2018-04-14 06:16:45 +0000",
-      "desert": "2017-10-06 21:17:21 +0000"
+      "minecraft:jungle_edge": "2018-04-14 06:16:43 +0000",
+      "minecraft:forest": "2017-06-08 07:26:19 +0000",
+      "minecraft:mountains": "2018-04-14 05:42:43 +0000",
+      "minecraft:taiga": "2017-12-30 23:40:53 +0000",
+      "minecraft:taiga_hills": "2018-04-14 05:46:16 +0000",
+      "minecraft:desert": "2017-10-06 21:17:21 +0000",
+      "minecraft:jungle": "2018-04-14 06:16:45 +0000",
+      "minecraft:birch_forest": "2018-04-14 06:18:13 +0000",
+      "minecraft:savanna_plateau": "2017-06-09 05:52:33 +0000",
+      "minecraft:beach": "2017-06-09 05:41:07 +0000",
+      "minecraft:dark_forest": "2018-04-14 06:00:09 +0000",
+      "minecraft:river": "2017-06-09 05:43:43 +0000",
+      "minecraft:birch_forest_hills": "2018-04-14 06:18:28 +0000",
+      "minecraft:wooded_mountains": "2018-04-14 05:42:24 +0000",
+      "minecraft:wooded_hills": "2018-04-14 06:15:23 +0000",
+      "minecraft:wooded_badlands_plateau": "2017-12-31 01:23:45 +0000",
+      "minecraft:swamp": "2018-04-14 05:47:08 +0000",
+      "minecraft:savanna": "2017-06-09 05:31:03 +0000",
+      "minecraft:plains": "2017-09-16 15:43:10 +0000"
     },
     "done": false
   },
@@ -606,12 +592,6 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2017-09-01 20:14:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wooden_slab": {
-    "criteria": {
-      "has_planks": "2017-09-01 20:11:56 +0000"
     },
     "done": true
   },
@@ -663,12 +643,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 05:32:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2018-04-14 05:54:21 +0000"
@@ -699,12 +673,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 05:32:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
@@ -729,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-14 06:30:02 +0000"
@@ -747,18 +721,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 05:32:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 05:32:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2017-06-09 05:46:53 +0000"
@@ -768,6 +730,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2017-09-01 20:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2017-09-01 20:13:55 +0000"
     },
     "done": true
   },
@@ -807,9 +775,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
-      "entered_water": "2017-06-09 05:32:20 +0000"
+      "has_string": "2018-04-23 05:21:23 +0000"
     },
     "done": true
   },
@@ -821,13 +789,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "polar_bear": "2017-06-09 06:33:30 +0000",
-      "vindicator": "2017-06-09 06:25:36 +0000",
-      "skeleton": "2017-06-09 06:01:26 +0000",
-      "husk": "2017-06-09 06:25:28 +0000",
-      "evoker": "2017-06-09 06:21:02 +0000",
-      "zombie": "2017-09-16 15:44:16 +0000",
-      "spider": "2018-04-23 05:21:22 +0000"
+      "minecraft:polar_bear": "2017-06-09 06:33:30 +0000",
+      "minecraft:skeleton": "2017-06-09 06:01:26 +0000",
+      "minecraft:husk": "2017-06-09 06:25:28 +0000",
+      "minecraft:vindicator": "2017-06-09 06:25:36 +0000",
+      "minecraft:spider": "2018-04-23 05:21:22 +0000",
+      "minecraft:zombie": "2017-09-16 15:44:16 +0000",
+      "minecraft:evoker": "2017-06-09 06:21:02 +0000"
     },
     "done": false
   },
@@ -837,21 +805,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2018-04-14 06:30:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-14 06:30:02 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
-      "bred_chicken": "2018-04-14 06:26:41 +0000"
+      "has_bed": "2018-04-14 06:30:02 +0000"
     },
     "done": true
   },
@@ -867,15 +829,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2018-08-26 08:13:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-14 06:30:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_cobblestone": "2018-04-14 05:54:21 +0000"
+      "has_iron_pickaxe": "2018-08-26 08:13:29 +0000"
     },
     "done": true
   },
@@ -903,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2018-04-14 06:20:38 +0000"
@@ -927,12 +901,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_door": {
-    "criteria": {
-      "has_planks": "2017-06-08 07:26:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2017-09-01 20:11:56 +0000"
@@ -948,6 +916,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2018-04-15 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
