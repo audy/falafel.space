@@ -480,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2018-09-01 00:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-06-22 01:27:05 +0000"
@@ -495,6 +501,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2017-07-14 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2018-09-01 00:02:01 +0000"
     },
     "done": true
   },
@@ -534,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2018-09-01 00:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-26 23:07:32 +0000"
@@ -546,13 +564,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-22 01:21:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-22 01:21:33 +0000"
     },
@@ -579,6 +597,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2017-07-16 02:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2018-09-01 00:02:58 +0000"
     },
     "done": true
   },
@@ -886,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2018-09-01 00:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-08-30 23:04:02 +0000"
@@ -1012,19 +1042,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2018-09-01 00:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2017-08-26 01:59:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2017-08-23 01:55:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2017-08-23 01:55:01 +0000"
     },
@@ -1061,12 +1097,12 @@
       "minecraft:husk": "2017-07-16 01:52:32 +0000",
       "minecraft:ghast": "2017-06-27 01:26:59 +0000",
       "minecraft:guardian": "2017-06-26 23:24:59 +0000",
-      "minecraft:silverfish": "2017-08-22 02:20:56 +0000",
       "minecraft:enderman": "2017-08-22 02:39:35 +0000",
+      "minecraft:silverfish": "2017-08-22 02:20:56 +0000",
       "minecraft:spider": "2017-07-16 01:41:01 +0000",
       "minecraft:zombie": "2017-08-12 00:36:59 +0000",
-      "minecraft:creeper": "2017-06-26 23:01:46 +0000",
       "minecraft:drowned": "2018-08-30 23:45:08 +0000",
+      "minecraft:creeper": "2017-06-26 23:01:46 +0000",
       "minecraft:zombie_villager": "2017-08-11 23:53:05 +0000"
     },
     "done": false
@@ -1098,6 +1134,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2018-08-30 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-09-01 00:22:46 +0000"
     },
     "done": true
   },
@@ -1517,9 +1559,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2018-09-01 00:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2017-08-27 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2018-08-31 23:57:31 +0000"
     },
     "done": true
   },
@@ -1586,6 +1640,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2017-08-26 01:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2018-09-01 00:07:15 +0000"
     },
     "done": true
   },
@@ -1733,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2018-09-01 00:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2017-08-11 23:43:27 +0000"
@@ -1793,6 +1859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2018-09-01 00:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2017-06-26 23:01:46 +0000"
@@ -1817,6 +1889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2018-09-01 00:22:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2017-08-11 23:31:56 +0000"
@@ -1831,11 +1909,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2017-07-16 01:57:53 +0000",
       "minecraft:cold_ocean": "2018-08-31 00:19:40 +0000",
+      "minecraft:jungle_edge": "2017-07-16 01:57:53 +0000",
       "minecraft:snowy_mountains": "2017-08-27 00:25:35 +0000",
-      "minecraft:forest": "2017-07-16 02:11:09 +0000",
       "minecraft:mountains": "2017-06-22 01:18:03 +0000",
+      "minecraft:forest": "2017-07-16 02:11:09 +0000",
       "minecraft:taiga": "2017-06-26 23:01:01 +0000",
       "minecraft:desert_hills": "2017-07-16 01:54:39 +0000",
       "minecraft:deep_cold_ocean": "2018-08-31 00:19:36 +0000",
@@ -1853,8 +1931,8 @@
       "minecraft:savanna_plateau": "2017-07-16 01:42:56 +0000",
       "minecraft:beach": "2017-07-16 01:48:04 +0000",
       "minecraft:dark_forest": "2017-07-20 22:55:32 +0000",
-      "minecraft:river": "2017-06-27 01:30:22 +0000",
       "minecraft:lukewarm_ocean": "2018-08-31 00:27:39 +0000",
+      "minecraft:river": "2017-06-27 01:30:22 +0000",
       "minecraft:snowy_taiga": "2017-07-16 02:17:20 +0000",
       "minecraft:birch_forest_hills": "2017-07-20 22:46:44 +0000",
       "minecraft:wooded_mountains": "2017-06-22 01:37:23 +0000",
@@ -2115,6 +2193,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2017-08-27 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-09-01 00:22:45 +0000"
     },
     "done": true
   },
