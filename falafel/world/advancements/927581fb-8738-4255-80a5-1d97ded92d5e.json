@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-09-08 23:27:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2017-07-04 19:41:32 +0000"
@@ -834,6 +840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2018-09-08 22:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2017-07-08 19:03:49 +0000"
@@ -849,6 +861,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2017-08-06 05:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2018-09-09 02:31:02 +0000"
     },
     "done": true
   },
@@ -1100,6 +1118,7 @@
       "minecraft:birch_forest": "2017-06-11 07:51:00 +0000",
       "minecraft:jungle_hills": "2017-06-11 07:51:25 +0000",
       "minecraft:snowy_beach": "2018-01-29 02:35:47 +0000",
+      "minecraft:warm_ocean": "2018-09-09 02:28:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2018-09-05 01:32:48 +0000",
       "minecraft:badlands": "2017-08-07 09:03:30 +0000",
       "minecraft:savanna_plateau": "2017-06-11 07:31:09 +0000",
@@ -1853,6 +1872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2018-09-08 23:27:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-09-03 19:26:37 +0000"
@@ -2483,6 +2508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2018-09-08 22:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2017-07-31 00:16:36 +0000"
@@ -2516,6 +2547,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2017-08-07 09:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-09-08 21:40:01 +0000"
     },
     "done": true
   },
