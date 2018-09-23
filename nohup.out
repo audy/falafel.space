@@ -1,0 +1,52 @@
+Unable to find image 'topdockercat/mapcrafter:latest' locally
+latest: Pulling from topdockercat/mapcrafter
+d5c6f90da05d: Pulling fs layer
+1300883d87d5: Pulling fs layer
+c220aa3cfc1b: Pulling fs layer
+2e9398f099dc: Pulling fs layer
+dc27a084064f: Pulling fs layer
+e2250b737cc0: Pulling fs layer
+82df46819faf: Pulling fs layer
+6eefadd07639: Pulling fs layer
+2c3eb26750d1: Pulling fs layer
+b7881b4378f5: Pulling fs layer
+82df46819faf: Waiting
+dc27a084064f: Waiting
+6eefadd07639: Waiting
+e2250b737cc0: Waiting
+2c3eb26750d1: Waiting
+b7881b4378f5: Waiting
+c220aa3cfc1b: Verifying Checksum
+c220aa3cfc1b: Download complete
+1300883d87d5: Verifying Checksum
+1300883d87d5: Download complete
+2e9398f099dc: Verifying Checksum
+2e9398f099dc: Download complete
+dc27a084064f: Download complete
+d5c6f90da05d: Verifying Checksum
+d5c6f90da05d: Download complete
+6eefadd07639: Verifying Checksum
+6eefadd07639: Download complete
+82df46819faf: Verifying Checksum
+82df46819faf: Download complete
+2c3eb26750d1: Verifying Checksum
+2c3eb26750d1: Download complete
+e2250b737cc0: Verifying Checksum
+e2250b737cc0: Download complete
+d5c6f90da05d: Pull complete
+1300883d87d5: Pull complete
+c220aa3cfc1b: Pull complete
+2e9398f099dc: Pull complete
+dc27a084064f: Pull complete
+b7881b4378f5: Verifying Checksum
+b7881b4378f5: Download complete
+e2250b737cc0: Pull complete
+82df46819faf: Pull complete
+6eefadd07639: Pull complete
+2c3eb26750d1: Pull complete
+b7881b4378f5: Pull complete
+Digest: sha256:62cbf49ac4d86d0ac2db273165b57a04a73e727a1f434d0a4ed61fec7091df61
+Status: Downloaded newer image for topdockercat/mapcrafter:latest
+d97983787d975e2d4bc2c9d33090f53bc0d3f0b75dda435055adaafada1acd39
+docker: Error response from daemon: oci runtime error: container_linux.go:247: starting container process caused "process_linux.go:359: container init caused \"rootfs_linux.go:54: mounting \\\"/root/falafel/render.conf\\\" to rootfs \\\"/var/lib/docker/devicemapper/mnt/56818fa603ca284dbf9635a575c88548460c99153ddad5ec892c2e0d645655f7/rootfs\\\" at \\\"/var/lib/docker/devicemapper/mnt/56818fa603ca284dbf9635a575c88548460c99153ddad5ec892c2e0d645655f7/rootfs/render.conf\\\" caused \\\"not a directory\\\"\""
+: Are you trying to mount a directory onto a file (or vice-versa)? Check if the specified host path exists and is the expected type.

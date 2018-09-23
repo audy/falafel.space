@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2018-09-22 05:23:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2017-06-08 07:26:18 +0000"
@@ -215,15 +221,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2017-06-08 07:26:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
@@ -260,6 +266,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2017-09-01 20:12:39 +0000",
+      "potato": "2018-09-22 05:22:47 +0000",
       "cooked_chicken": "2017-12-31 01:22:47 +0000",
       "carrot": "2018-04-23 05:20:18 +0000"
     },
@@ -463,15 +470,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2017-06-08 07:26:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-06-08 07:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2017-06-08 07:26:18 +0000"
     },
     "done": true
   },
@@ -562,8 +569,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2018-04-14 06:16:43 +0000",
-      "minecraft:forest": "2017-06-08 07:26:19 +0000",
       "minecraft:mountains": "2018-04-14 05:42:43 +0000",
+      "minecraft:forest": "2017-06-08 07:26:19 +0000",
       "minecraft:taiga": "2017-12-30 23:40:53 +0000",
       "minecraft:taiga_hills": "2018-04-14 05:46:16 +0000",
       "minecraft:desert": "2017-10-06 21:17:21 +0000",
@@ -643,6 +650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-09-22 05:23:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2018-04-14 05:54:21 +0000"
@@ -676,6 +689,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-09-22 05:23:59 +0000"
     },
     "done": true
   },
@@ -718,6 +737,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2018-04-14 06:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-09-22 05:23:59 +0000"
     },
     "done": true
   },
@@ -787,6 +812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-09-22 05:23:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:polar_bear": "2017-06-09 06:33:30 +0000",
@@ -805,13 +836,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-14 06:30:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-14 06:30:02 +0000"
     },
@@ -880,6 +911,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2018-04-14 06:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-09-22 05:23:59 +0000"
     },
     "done": true
   },
