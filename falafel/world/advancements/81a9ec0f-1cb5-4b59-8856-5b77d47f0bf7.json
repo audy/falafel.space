@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2018-04-15 05:23:47 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2017-12-31 01:21:35 +0000"
@@ -104,6 +116,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2017-09-01 20:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
     },
     "done": true
   },
@@ -209,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2017-06-08 07:26:18 +0000"
@@ -257,9 +281,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
     },
     "done": true
   },
@@ -284,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2019-03-01 01:36:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
@@ -293,6 +335,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2018-04-14 05:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
     },
     "done": true
   },
@@ -323,6 +371,12 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2017-12-31 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-03-01 01:22:17 +0000"
     },
     "done": true
   },
@@ -371,6 +425,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2017-09-16 15:45:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-03-01 01:18:57 +0000"
     },
     "done": true
   },
@@ -443,6 +503,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-09-01 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
     },
     "done": true
   },
@@ -536,9 +602,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-14 06:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-03-01 01:25:50 +0000"
     },
     "done": true
   },
@@ -566,11 +644,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-03-01 01:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2018-04-14 06:16:43 +0000",
-      "minecraft:forest": "2017-06-08 07:26:19 +0000",
       "minecraft:mountains": "2018-04-14 05:42:43 +0000",
+      "minecraft:forest": "2017-06-08 07:26:19 +0000",
       "minecraft:taiga": "2017-12-30 23:40:53 +0000",
       "minecraft:taiga_hills": "2018-04-14 05:46:16 +0000",
       "minecraft:desert": "2017-10-06 21:17:21 +0000",
@@ -620,6 +704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-03-01 01:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2018-04-14 05:28:34 +0000"
@@ -653,6 +743,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-09-22 05:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
     },
     "done": true
   },
@@ -695,6 +791,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2018-09-22 05:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-03-01 01:40:12 +0000"
     },
     "done": true
   },
@@ -826,6 +928,7 @@
       "minecraft:vindicator": "2017-06-09 06:25:36 +0000",
       "minecraft:spider": "2018-04-23 05:21:22 +0000",
       "minecraft:zombie": "2017-09-16 15:44:16 +0000",
+      "minecraft:creeper": "2019-03-01 01:39:13 +0000",
       "minecraft:evoker": "2017-06-09 06:21:02 +0000"
     },
     "done": false
@@ -863,6 +966,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2018-08-26 08:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
     },
     "done": true
   },
@@ -914,9 +1023,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-03-01 01:40:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2018-09-22 05:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2019-03-01 01:39:45 +0000"
     },
     "done": true
   },
@@ -935,6 +1056,18 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-04-14 05:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-03-01 01:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-03-01 01:31:46 +0000"
     },
     "done": true
   },
@@ -971,6 +1104,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-14 06:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2019-03-01 01:25:50 +0000"
     },
     "done": true
   }
